@@ -79,8 +79,8 @@
         };
 
         # Remote development environments
-        "gizmo-coder" = coderConfiguration;
-        "gizmo" = coderConfiguration;
+        "lena-coder" = coderConfiguration;
+        "lena" = coderConfiguration;
 
         # Personal macbook
         "gizmo-macbook" = macbookConfiguration;
